@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Welcome to Prisma!
-Prisma is a control panel software stemming from the late CubedHost ([RIP 2012 - 2022](https://cubedhost.com)) that was originally created for a number of both business and user experience related reasons. Now that we're no longer operating under the need for the business reason, we're now working on what we had dreamed Prisma v2 to be; a project that was in the talks in the last 6 months of CubedHost's existence.
+Prisma is a control panel software stemming from the late CubedHost ([RIP 2011 - 2021](https://cubedhost.com)) that was originally created for a number of both business and user experience related reasons. Now that we're no longer operating under the need for the business reason, we're now working on what we had dreamed Prisma v2 to be; a project that was in the talks in the last 6 months of CubedHost's existence.
 
 ### Where are the repos?
 While we're going to be an OSS project, initially we've decided to privatize the repositories until we've built our initial codebase, something that's presentable enough to say this is a super-early alpha. We have a lot of big plans with Prisma, but the architectural designs might not make a lot of sense right out of the gate becuase they're essentially two madmen's brainstorming sessions built over Rocket League.
